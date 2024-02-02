@@ -1,1 +1,1 @@
-Mimikatz免杀方向(过360，火狐和WindowsDefinder) 参考博客：http://boke.vpss.cc/9.html
+新免杀方向 Mimikatz（猕猴桃） 免杀 360，火绒，电脑管家，WindowsDefinder，详细使用教程请参考博客：https://boke.vpss.cc/9.html
